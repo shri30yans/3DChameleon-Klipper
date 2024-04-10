@@ -1,7 +1,7 @@
 # 3DChameleon-Klipper
 
 ## Introduction
-The 3D Chameleon is a Multimaterial system that allows 3D Printers to print in upto 4 colours. These Klipper macros aim to make the 3DChameleon compatible with Klipper firmware. By integrating Macros defined in Klipper, it enables seamless switching and handling of multiple filaments during printing.
+The 3D Chameleon is a Multimaterial system that allows 3D Printers to print in upto 4 colours. These Klipper macros aim to make the 3D Chameleon compatible with Klipper firmware. By integrating Macros defined in Klipper, it enables seamless switching and handling of multiple filaments during printing.
 https://www.3dchameleon.com/
 
 ## Usage
